@@ -1,0 +1,2 @@
+FROM node
+CMD sleep 99999999
